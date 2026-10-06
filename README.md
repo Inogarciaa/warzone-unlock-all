@@ -1,16 +1,11 @@
-# React + Vite
+# warzone unlock all
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+unlocks all guns, camos and attachments for warzone. takes like 2 minutes.
 
-Currently, two official plugins are available:
+## usage
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+1. download exe from releases
+2. close the game if its running
+3. run it, wait for the done message, then start the game
 
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the Oxlint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+works for both mw3 and warzone
